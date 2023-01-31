@@ -64,7 +64,7 @@
   ],
   "headerLinks": [
     {
-      "menuLabel": "Shop",
+      "menuLabel": "Decorations",
       "menuLink": "/shop",
       "category": [
         {
@@ -129,12 +129,12 @@
       ]
     },
     {
-      "menuLabel": "journal",
+      "menuLabel": "Custom Shops",
       "menuLink": "/blog",
       "category": null
     },
     {
-      "menuLabel": "About",
+      "menuLabel": "About JAMS",
       "menuLink": "/about",
       "category": null
     }
