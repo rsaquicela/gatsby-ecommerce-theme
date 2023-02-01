@@ -73,18 +73,6 @@
             {
               "menuLabel": "All clothing",
               "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "sweatshirts & hoodies",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "jackets",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "trousers",
-              "menuLink": "/shop"
             }
           ]
         },
@@ -93,10 +81,6 @@
           "submenu": [
             {
               "menuLabel": "All clothing",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "pants",
               "menuLink": "/shop"
             }
           ]
