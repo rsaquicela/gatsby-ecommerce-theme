@@ -80,7 +80,15 @@
           "categoryLabel": "Party Ideas",
           "submenu": [
             {
-              "menuLabel": "All clothing",
+              "menuLabel": "Boy Birthday Parties",
+              "menuLink": "/shop"
+            },
+            {
+              "menuLabel": "Girl Birthday Parties",
+              "menuLink": "/shop"
+            },
+            {
+              "menuLabel": "Baby Birthday Parties",
               "menuLink": "/shop"
             }
           ]
