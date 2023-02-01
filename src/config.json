@@ -71,7 +71,7 @@
           "categoryLabel": "Party Supplies",
           "submenu": [
             {
-              "menuLabel": "All clothing",
+              "menuLabel": "All Supplies",
               "menuLink": "/shop"
             }
           ]
