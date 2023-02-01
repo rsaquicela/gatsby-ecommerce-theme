@@ -68,7 +68,7 @@
       "menuLink": "/shop",
       "category": [
         {
-          "categoryLabel": "woman",
+          "categoryLabel": "Party Supplies",
           "submenu": [
             {
               "menuLabel": "All clothing",
@@ -89,7 +89,7 @@
           ]
         },
         {
-          "categoryLabel": "men",
+          "categoryLabel": "Party Ideas",
           "submenu": [
             {
               "menuLabel": "All clothing",
@@ -114,7 +114,7 @@
           ]
         },
         {
-          "categoryLabel": "accessories",
+          "categoryLabel": "Gift Ideas",
           "submenu": [
             {
               "menuLabel": "caps & scarves",
