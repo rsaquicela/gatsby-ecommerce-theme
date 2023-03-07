@@ -10,12 +10,12 @@ const Brand = (props) => {
       role={'presentation'}
       onClick={() => navigate('/')}
     >
-      {/* <h4>SYDNEY</h4> */}
+      {/* <h4>made with love</h4> */}
       <svg
-        width={127}
-        height={40}
+        width={64}
+        height={64}
         xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 127.67 23.36"
+        viewBox="-32 -32 128.00 128.00"
       >
         <path
           fill="currentColor"
